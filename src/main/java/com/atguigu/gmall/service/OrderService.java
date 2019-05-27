@@ -7,4 +7,6 @@ public interface OrderService {
      * @param userId
      */
     public void initOrder(String userId);
+    
+    public String sayHellow();
 }
